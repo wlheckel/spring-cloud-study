@@ -22,6 +22,10 @@
 	<modules>
 		<module>microservice-discovery-eureka</module>
 		<module>microservice-provider-user</module>
+		<module>microservice-consumer-movie-ribbon</module>
+		<module>microservice-consumer-movie-feign</module>
+		<module>microservice-consumer-movie-ribbon-with-hystrix</module>
+		<module>microservice-hystrix-dashboard</module>
 	</modules>
 	<dependencyManagement>
 		<dependencies>
