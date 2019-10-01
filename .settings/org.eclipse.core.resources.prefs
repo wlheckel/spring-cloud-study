@@ -1,2 +1,4 @@
 eclipse.preferences.version=1
+encoding//config-repo/microservice-config-client-dev.properties=UTF-8
+encoding//config-repo/microservice-config-client.properties=UTF-8
 encoding/<project>=UTF-8
